@@ -1,3 +1,3 @@
 # NukeCode
 
-Now you can change the code. 
+I have made some changes.  
